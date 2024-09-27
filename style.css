@@ -82,8 +82,7 @@
 }
 .our-pricing .card button {
   background-color: #35353595;
-  width: 60%;
-  margin: 0 auto;
+  width: 100%;
   display: block;
   border: 0;
   padding: 7px;
